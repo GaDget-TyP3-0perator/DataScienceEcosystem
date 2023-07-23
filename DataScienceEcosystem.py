@@ -33,7 +33,7 @@
 # |--------------------|
 # | Jupyter Lab|
 # | R Studio |
-# | Apache Zeppeelin |
+# | Apache Zeppelin |
 # | Spyder |
 # 
 # 
